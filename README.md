@@ -26,7 +26,19 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 
 - Un ejemplo de estructura valida de carpetas es la siguiente:
 
-
+1. src
+	- main
+	   - java
+			- avaldez
+				- practices
+					- 06_objectsclasses_practice1
+					- 06_objectsclasses_practice2
+				- exercises
+					- ex03_1_exercise
+					- ex04_1_exercise
+					
+> Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBenas que crearon en su equipo pero cambiando los guines - por _ y todas las letras mayusculas por minusculas y agregar los paquetes de cada proyecto netbeans en esta carpeta y refactorizar los paquetes verificar los ejemplos que agregue en el proyecto base
+	 
 
 
 
