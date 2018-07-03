@@ -31,13 +31,18 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 	   - java
 			- avaldez
 				- practices
-					- 06_objectsclasses_practice1
-					- 06_objectsclasses_practice2
+					- practice_06_objectsclasses_2
+						-soccer
+						  Goal.java
+						  Game.java
+						  League.java
+						  Player.java
+						  Team.java
 				- exercises
 					- ex03_1_exercise
-					- ex04_1_exercise
+						SayHello.java
 					
-> Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBenas que crearon en su equipo pero cambiando los guines - por _ y todas las letras mayusculas por minusculas y agregar los paquetes de cada proyecto netbeans en esta carpeta y refactorizar los paquetes verificar los ejemplos que agregue en el proyecto base
+> Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBeans que crearon en su equipo, pero cambiando los guiones - por _ y todas las letras mayusculas por minusculas. Agregar los paquetes de cada proyecto netbeans en la carpeta correspondiente a la practica y refactorizar los paquetes. Revisar el codigo de ejemplo
 	 
 
 
