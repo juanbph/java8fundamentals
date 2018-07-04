@@ -32,17 +32,26 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 			- avaldez
 				- practices
 					- practice_06_objectsclasses_2
-						-soccer
-						  Goal.java
-						  Game.java
-						  League.java
-						  Player.java
-						  Team.java
+						- soccer
+						   
+						   Goal.java
+						  
+						   Game.java
+						  
+						   League.java
+						   
+						   Player.java
+						   
+						   Team.java
 				- exercises
 					- ex03_1_exercise
+						
 						SayHello.java
 					
-> Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBeans que crearon en su equipo, pero cambiando los guiones - por _ y todas las letras mayusculas por minusculas. Agregar los paquetes de cada proyecto netbeans en la carpeta correspondiente a la practica y refactorizar los paquetes. Revisar el codigo de ejemplo
+> Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBeans que crearon en su equipo, 
+> utilizando el siguiente formato **practice_numeromodulo_nombremodulo_numeropractica** todo en minusculas y utiizando guiones bajos. Entonces un ejemplo seria como
+> sigue practice_06_objectsclasses_2 
+> Agregar los paquetes de cada proyecto netbeans en la carpeta correspondiente a la practica y refactorizar los paquetes. Revisar el codigo de ejemplo en la carpeta **avaldez**
 	 
 
 
