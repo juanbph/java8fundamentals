@@ -50,8 +50,10 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 					
 > Nota: En el caso de las practicas la carpeta base nombrarla con base en el nombre de proyecto NetBeans que crearon en su equipo, 
 > utilizando el siguiente formato **practice_numeromodulo_nombremodulo_numeropractica** todo en minusculas y utiizando guiones bajos. Entonces un ejemplo seria como
-> sigue practice_06_objectsclasses_2 
+> sigue **practice_06_objectsclasses_2** 
 > Agregar los paquetes de cada proyecto netbeans en la carpeta correspondiente a la practica y refactorizar los paquetes. Revisar el codigo de ejemplo en la carpeta **avaldez**
+
+- 
 	 
 
 
