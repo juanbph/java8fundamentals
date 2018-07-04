@@ -77,6 +77,8 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 
 - Y borras el branch que utilizaste con el comando `git branch -d localbranchname` , donde localbranchname es el nombre del branch que crearon
 
+- Y actualizamos nuestro branch local master con el siguiente comando `git pull` , para tener todos los cambios
+
 - Dudas o comentarios enviarlos a mi correo: **alfonso.valdezaltamirano@gmail.com**
 
 
