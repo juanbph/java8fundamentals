@@ -53,9 +53,31 @@ Por favor sigan los siguientes pasos que se les indican para poder utilizar este
 > sigue **practice_06_objectsclasses_2** 
 > Agregar los paquetes de cada proyecto netbeans en la carpeta correspondiente a la practica y refactorizar los paquetes. Revisar el codigo de ejemplo en la carpeta **avaldez**
 
-- 
-	 
+- Para consultar los cambios realizado utilizar el comando `git log` en caso de tener dudas consultar la siguiente [liga](https://git-scm.com/docs/git-log)
 
+- crear un branch con el siguiente comando `git checkout -b nameofbranch` , si tienes dudas de como crear un branch consulta la siguiente [liga](https://git-scm.com/docs/git-checkout)
+
+- Para indicar que cambios se van a promover para subir utilizar el comando `git add nameoffile` , si tienes dudas de como utilizar el comando consulta la siguiente [liga](https://git-scm.com/docs/git-add)
+
+- Cuando todos los cambios esten en stage entonces es momento de crear un commit con el siguiente comando `git commit -m "message"` , este comando utiliza la opción -m para que podamos agregar un mensaje descriptivo del cambio que queremos publicar
+
+- Ahora vamos a enviar los cambios al repositorio remoto con el comando `git push --set-upstream origin branchname` , en donde branchname es el nombre del branch que genere previamente y en donde estan mis cambios
+	 
+- Cuando tengamos este avance ahora vamos a generar un pull request desde la interfaz web de github, por lo que debemos logearnos en nuestra cuenta y entrar al repositorio del proyecto
+
+- Dentor del repositorio del proyecto vamos a buscar el boton **Compare & pull request** le damos click y observamos la siguiente interfaz
+
+- Agregamos un titulo al pull request y agregamos un comentario en el cuerpo del pull request
+
+- En la sección de **Reviewers** seleccionar mi nombre de usuario de github **breakponchito** , yo sere el unico que aprobara sus cambios
+
+- Cuando tengan esto ya solo falta dar click en el boton **Create Pull Request** dan click y esperan mi aprobacion y merge del branch para que el codigo que agregaron se propage al proyecto base master
+
+- Ahora lo que tienes que hacer en tu local es moverte al branch master con el comando `git checkout master`
+
+- Y borras el branch que utilizaste con el comando `git branch -d localbranchname` , donde localbranchname es el nombre del branch que crearon
+
+- Dudas o comentarios enviarlos a mi correo: **alfonso.valdezaltamirano@gmail.com**
 
 
 
